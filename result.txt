@@ -1,0 +1,1 @@
+Final vector: [1, 2] of length: 2
